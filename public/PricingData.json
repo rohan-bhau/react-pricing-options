@@ -1,0 +1,102 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic Plan",
+    "price": 19,
+    "billing": "monthly",
+    "description": "Good for beginners starting their fitness journey.",
+    "features": [
+      "Gym access (6 AM - 10 PM)",
+      "Access to cardio equipment",
+      "Selectorized strength machines",
+      "Locker room access",
+      "Open stretching area",
+      "1 fitness assessment",
+      "Basic workout plan",
+      "Water refill station",
+      "Free WiFi",
+      "Mobile app check-in",
+      "Community support group",
+      "Member discounts on merchandise"
+    ]
+  },
+  {
+    "id": "standard",
+    "name": "Standard Plan",
+    "price": 39,
+    "billing": "monthly",
+    "description": "Perfect for regular members who want more flexibility.",
+    "features": [
+      "24/7 gym access",
+      "All cardio & strength equipment",
+      "Free weight area access",
+      "Locker room access",
+      "Group classes included",
+      "Yoga & HIIT classes",
+      "2 fitness assessments per month",
+      "Basic nutrition guidance",
+      "Progress tracking",
+      "Mobile app access",
+      "Workout history tracking",
+      "Guest pass (1 per month)",
+      "Free WiFi",
+      "Stretching & mobility zone",
+      "Member challenges"
+    ]
+  },
+  {
+    "id": "premium",
+    "name": "Premium Plan",
+    "price": 59,
+    "billing": "monthly",
+    "description": "Best for serious fitness enthusiasts.",
+    "features": [
+      "24/7 gym access",
+      "Unlimited group classes",
+      "CrossFit & functional training zone",
+      "Personal trainer (2 sessions/month)",
+      "Custom workout program",
+      "Diet plan consultation",
+      "Body composition analysis",
+      "Sauna access",
+      "Steam room access",
+      "Recovery area access",
+      "Locker included",
+      "Priority class booking",
+      "Guest pass (3 per month)",
+      "Mobile app premium features",
+      "Progress analytics dashboard",
+      "Supplement store discounts",
+      "Free protein shake (2/month)"
+    ]
+  },
+  {
+    "id": "pro",
+    "name": "Pro Athlete",
+    "price": 89,
+    "billing": "monthly",
+    "description": "Advanced training with full coaching and recovery support.",
+    "features": [
+      "24/7 VIP gym access",
+      "Unlimited personal training",
+      "Dedicated fitness coach",
+      "Custom workout program",
+      "Advanced nutrition plan",
+      "Weekly progress tracking",
+      "Body composition tracking",
+      "InBody scan access",
+      "Sauna & steam unlimited",
+      "Ice bath & recovery zone",
+      "VIP locker",
+      "Laundry service",
+      "Priority equipment reservation",
+      "Unlimited guest passes",
+      "Private training area access",
+      "Performance testing",
+      "Athlete strength program",
+      "Free supplements starter pack",
+      "Premium app analytics",
+      "Direct trainer chat support"
+    ]
+  }
+]

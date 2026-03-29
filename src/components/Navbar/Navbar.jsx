@@ -45,7 +45,7 @@ const navigationBar = [
           onClick={() => {
             setOpen(!open);
           }}
-          className="md:hidden"
+          className="md:hidden cursor-pointer"
         >
           {open ? <X></X> : <Menu></Menu>}
         </span>
