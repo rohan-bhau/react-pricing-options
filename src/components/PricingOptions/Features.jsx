@@ -2,7 +2,7 @@ import { CircleCheckBig } from 'lucide-react';
 import React from 'react'
 
 const Features = ({ feature }) => {
-    console.log(feature);
+    // console.log(feature);
     
     return (
         <li className='flex gap-3 mb-2'>
